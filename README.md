@@ -1,1 +1,3 @@
-# Rydberg_HamiltoninanQuantum_MIS
+# Optimizing Rydberg_Hamiltoninan using Geometry (Quantum Scarring)
+
+
