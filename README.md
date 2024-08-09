@@ -11,7 +11,6 @@
 
 <img src="./Screenshot from 2024-04-14 11-37-31.png">Quantum Scarring effect on elipse structure</img>
 <b>The probability density for the ellipse quantum structures is as follows: 
-<img src="./Screenshot from 2024-05-09 20-08-30.png">Probability Density</img>
 </b>
 <h5>Reference</h5>
 <p>The following reference has been used for this application: 
