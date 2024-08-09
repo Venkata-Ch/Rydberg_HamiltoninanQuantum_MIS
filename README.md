@@ -10,8 +10,10 @@
    While phase-space localization is essential for the low degreee of sperading this phenomenon has very iteresting applications on how <br>
 </p>
 <br><img src="./Screenshot from 2024-04-14 11-37-31.png">Quantum Scarring effect on elipse structure</img></br>
-<b>The probability density for the ellipse quantum structures is as follows: 
-</b>
+<b>The probability density observations for the ellipse quantum structures is as follows: </b>
+<img src="./Quan/Screenshot 2024-08-08 210403.png"></img>
+   <p>Here the ellipse geometry structure has good detuning which is essential for the jumping or moving from groud state to RydBerg state.</p>
+
 <h5>Reference</h5>
 <p>The following reference has been used for this competition: 
    https://arxiv.org/html/2401.07795v2</p>
