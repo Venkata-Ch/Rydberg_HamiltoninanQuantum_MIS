@@ -13,7 +13,12 @@
 <b>The probability density observations for the ellipse quantum structures is as follows: </b>
 <img src="./Quan/Screenshot 2024-08-08 210403.png"></img>
    <p>Here the ellipse geometry structure has good detuning which is essential for the jumping or moving from groud state to RydBerg state.</p>
+   <p>Where I had the opportunity to give a presentation on my ellipse structures.</p>
+   <img src="IMG_3116.jpg"></img>
 
+   
+
+   
 <h5>Reference</h5>
 <p>The following reference has been used for this competition: 
    https://arxiv.org/html/2401.07795v2</p>
