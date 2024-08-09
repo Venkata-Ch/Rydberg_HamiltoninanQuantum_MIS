@@ -20,7 +20,7 @@
 
    
 <h5>Reference</h5>
-<p>The following reference has been used for this competition: 
+<p>I have used the following reference  for this competition: 
    https://arxiv.org/html/2401.07795v2</p>
    
    
