@@ -13,8 +13,9 @@
 <b>The probability density for the ellipse quantum structures is as follows: 
 </b>
 <h5>Reference</h5>
-<p>The following reference has been used for this application: 
+<p>The following reference has been used for this competition: 
    https://arxiv.org/html/2401.07795v2</p>
+   
    
 
 
